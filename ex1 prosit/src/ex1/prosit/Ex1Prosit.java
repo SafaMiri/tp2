@@ -18,7 +18,7 @@ public class Ex1Prosit {
           
            
        }
-            
+        // we wrote a code which resolve this problem
         
         
     }
