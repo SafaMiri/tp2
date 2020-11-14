@@ -11,5 +11,9 @@ package ex1.tableau;
  * @author DELL
  */
 class string {
+	private int id;
+	private String name;
+	private String description;
+	
     
 }
